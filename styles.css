@@ -33,6 +33,7 @@ main section.container {
 .first {
   position: absolute;
   top: 14px;
+  width: 100%;
 }
 
 section.container li {
